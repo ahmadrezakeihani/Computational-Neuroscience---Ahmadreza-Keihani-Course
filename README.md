@@ -20,8 +20,8 @@ The course combines theoretical foundations with hands-on programming exercises 
 - **Level:** Intermediate
 - **Location and Time Zone:** Pittsburgh, Pennsylvania, USA
 - **Scheduled Day:** Sunday mornings (Pittsburgh time)
-- **Intermediate Course Schedule:** September–December 2023 (tentative)
-- **Advanced Course Schedule:** Winter 2023–May 2024 (tentative)
+- **Intermediate Course Schedule:** September–December 2023 
+- **Advanced Course Schedule:** Winter 2023–May 2024 
 
 The course was designed in two parts: an intermediate-level course introducing programming and computational methods, followed by an advanced course focused on EEG and fMRI analysis.
 
