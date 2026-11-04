@@ -1,5 +1,5 @@
 # Computational Neuroscience (Intermediate Level)  
-### Ahmadreza Keihani, PhD
+### Ahmadreza Keihani, PhD  
 
 Welcome to the **Computational Neuroscience Course** repository! This course introduces students and researchers to computational methods for analyzing brain data, understanding neural systems, and developing computational models.
 
